@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Dev on wentao&#39;s blog</title>
+    <title>dev on wentao&#39;s blog</title>
     <link>http://liuwentao.github.io/categories/dev/</link>
-    <description>Recent content in Dev on wentao&#39;s blog</description>
+    <description>Recent content in dev on wentao&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Sat, 16 Nov 2019 12:00:00 +0800</lastBuildDate>
