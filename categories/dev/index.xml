@@ -6,10 +6,19 @@
     <description>Recent content in dev on wentao&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 16 Nov 2019 12:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 19 Nov 2019 23:12:12 +0800</lastBuildDate>
     
 	<atom:link href="http://liuwentao.github.io/categories/dev/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>My Nas</title>
+      <link>http://liuwentao.github.io/post/2019-11-19-my-nas/</link>
+      <pubDate>Tue, 19 Nov 2019 23:12:12 +0800</pubDate>
+      
+      <guid>http://liuwentao.github.io/post/2019-11-19-my-nas/</guid>
+      <description>何为NAS 根据百科上的说法，NAS（Network Attached Storage：网络附属存储）按字面简单说就是连接在网络上，具备资料存储功能的装置，因此</description>
+    </item>
     
     <item>
       <title>gradle 拷贝文件并重命名</title>
@@ -18,6 +27,15 @@
       
       <guid>http://liuwentao.github.io/post/2019-11-16-gradle-copy-rename/</guid>
       <description>这两年的项目中，一直使用gradle.在处理依赖的时候能够更简洁。在处理发布环境的时候也更可控一些。最近就遇到了这样的一个问题。 维护了一个修</description>
+    </item>
+    
+    <item>
+      <title>Nodejs Install</title>
+      <link>http://liuwentao.github.io/post/2019-11-15-nodejs-install/</link>
+      <pubDate>Fri, 15 Nov 2019 22:56:55 +0800</pubDate>
+      
+      <guid>http://liuwentao.github.io/post/2019-11-15-nodejs-install/</guid>
+      <description>从官网下载zip包 规划如下的路径 ./nodejs/node ./nodejs/global ./nodejs/cache 将zip解压到./nodejs/node目录。并将路径添加到%PATH%中。 修改.npmrc中的路径。</description>
     </item>
     
     <item>
