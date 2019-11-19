@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>life on wentao&#39;s blog</title>
+    <link>http://localhost:1313/tags/life/</link>
+    <description>Recent content in life on wentao&#39;s blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 13 Oct 2019 12:39:13 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost:1313/tags/life/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>19国庆</title>
+      <link>http://localhost:1313/post/2019-10-13-national-day/</link>
+      <pubDate>Sun, 13 Oct 2019 12:39:13 +0000</pubDate>
+      
+      <guid>http://localhost:1313/post/2019-10-13-national-day/</guid>
+      <description>国庆这几天去了重庆，传说中的山城。在山城的这几天没有太出去玩，更多的是在小舅子家待着。体验了一把山城生活。 秦岭 这次本来是打算开车去的.不过想</description>
+    </item>
+    
+  </channel>
+</rss>
