@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>beijing on wentao&#39;s blog</title>
-    <link>http://localhost:1313/tags/beijing/</link>
+    <link>http://liuwentao.github.io/tags/beijing/</link>
     <description>Recent content in beijing on wentao&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Sun, 14 Oct 2012 16:44:00 +0000</lastBuildDate>
     
-	<atom:link href="http://localhost:1313/tags/beijing/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://liuwentao.github.io/tags/beijing/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>北京</title>
-      <link>http://localhost:1313/post/2012-10-14-beijing/</link>
+      <link>http://liuwentao.github.io/post/2012-10-14-beijing/</link>
       <pubDate>Sun, 14 Oct 2012 16:44:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/post/2012-10-14-beijing/</guid>
+      <guid>http://liuwentao.github.io/post/2012-10-14-beijing/</guid>
       <description>来北京已经有两年的时间了.对这个城市没有什么太多的感觉.前些天一个同学,问我对这个城市感觉如何?还真的没想过这个问题,毕业以后,换过不少个地</description>
     </item>
     

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>think on wentao&#39;s blog</title>
-    <link>http://localhost:1313/tags/think/</link>
+    <link>http://liuwentao.github.io/tags/think/</link>
     <description>Recent content in think on wentao&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Fri, 11 Nov 2011 20:40:00 +0000</lastBuildDate>
     
-	<atom:link href="http://localhost:1313/tags/think/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://liuwentao.github.io/tags/think/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>LNMP的一些感想</title>
-      <link>http://localhost:1313/post/2011-11-11-think-about-lnmp/</link>
+      <link>http://liuwentao.github.io/post/2011-11-11-think-about-lnmp/</link>
       <pubDate>Fri, 11 Nov 2011 20:40:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/post/2011-11-11-think-about-lnmp/</guid>
+      <guid>http://liuwentao.github.io/post/2011-11-11-think-about-lnmp/</guid>
       <description>最近把blog搬到vps上.之前使用虚拟主机的时候,一直都是LNMP,已经配好的,没有选择的余地.这次使用了LNMP,nginx的确要比Ap</description>
     </item>
     

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>work on wentao&#39;s blog</title>
-    <link>http://localhost:1313/tags/work/</link>
+    <link>http://liuwentao.github.io/tags/work/</link>
     <description>Recent content in work on wentao&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Thu, 26 Sep 2019 07:11:36 +0000</lastBuildDate>
     
-	<atom:link href="http://localhost:1313/tags/work/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://liuwentao.github.io/tags/work/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>工作感想190926</title>
-      <link>http://localhost:1313/post/2019-09-26-working/</link>
+      <link>http://liuwentao.github.io/post/2019-09-26-working/</link>
       <pubDate>Thu, 26 Sep 2019 07:11:36 +0000</pubDate>
       
-      <guid>http://localhost:1313/post/2019-09-26-working/</guid>
+      <guid>http://liuwentao.github.io/post/2019-09-26-working/</guid>
       <description>工作也许仅仅是一份工作，但是生活还是自己的。生活和工作能够分的清楚么？本来一件事大家一起奔着解决问题的方向去做就行了。但是在实际的过程中，各</description>
     </item>
     

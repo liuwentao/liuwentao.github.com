@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>git on wentao&#39;s blog</title>
-    <link>http://localhost:1313/tags/git/</link>
+    <link>http://liuwentao.github.io/tags/git/</link>
     <description>Recent content in git on wentao&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Wed, 09 Nov 2011 20:21:00 +0000</lastBuildDate>
     
-	<atom:link href="http://localhost:1313/tags/git/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://liuwentao.github.io/tags/git/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>个人SCM的选择</title>
-      <link>http://localhost:1313/post/2011-11-09-how-to-choose-personal-scm/</link>
+      <link>http://liuwentao.github.io/post/2011-11-09-how-to-choose-personal-scm/</link>
       <pubDate>Wed, 09 Nov 2011 20:21:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/post/2011-11-09-how-to-choose-personal-scm/</guid>
+      <guid>http://liuwentao.github.io/post/2011-11-09-how-to-choose-personal-scm/</guid>
       <description>自己平时会写一些代码,需要把这些代码管理起来.用svn的话,不太方便.以往的这种集中式的SCM软件,如CVS和SVN.个人用起来还是太麻烦了</description>
     </item>
     

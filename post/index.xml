@@ -2,507 +2,507 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on wentao&#39;s blog</title>
-    <link>http://localhost:1313/post/</link>
+    <link>http://liuwentao.github.io/post/</link>
     <description>Recent content in Posts on wentao&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Sat, 16 Nov 2019 12:00:00 +0800</lastBuildDate>
     
-	<atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://liuwentao.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>gradle 拷贝文件并重命名</title>
-      <link>http://localhost:1313/post/2019-11-16-gradle-copy-rename/</link>
+      <link>http://liuwentao.github.io/post/2019-11-16-gradle-copy-rename/</link>
       <pubDate>Sat, 16 Nov 2019 12:00:00 +0800</pubDate>
       
-      <guid>http://localhost:1313/post/2019-11-16-gradle-copy-rename/</guid>
+      <guid>http://liuwentao.github.io/post/2019-11-16-gradle-copy-rename/</guid>
       <description>这两年的项目中，一直使用gradle.在处理依赖的时候能够更简洁。在处理发布环境的时候也更可控一些。最近就遇到了这样的一个问题。 维护了一个修</description>
     </item>
     
     <item>
       <title>在群晖上安装oh-my-zsh</title>
-      <link>http://localhost:1313/post/2019-11-03-zsh-synology/</link>
+      <link>http://liuwentao.github.io/post/2019-11-03-zsh-synology/</link>
       <pubDate>Sun, 03 Nov 2019 16:06:59 +0800</pubDate>
       
-      <guid>http://localhost:1313/post/2019-11-03-zsh-synology/</guid>
+      <guid>http://liuwentao.github.io/post/2019-11-03-zsh-synology/</guid>
       <description>安装git 安装官的就ok了。 安装zsh 在套件中心的 设置-&amp;gt;套件来源 上添加synocommunity. 之后在社群里面找到Z shell with modul</description>
     </item>
     
     <item>
       <title>19国庆</title>
-      <link>http://localhost:1313/post/2019-10-13-national-day/</link>
+      <link>http://liuwentao.github.io/post/2019-10-13-national-day/</link>
       <pubDate>Sun, 13 Oct 2019 12:39:13 +0000</pubDate>
       
-      <guid>http://localhost:1313/post/2019-10-13-national-day/</guid>
+      <guid>http://liuwentao.github.io/post/2019-10-13-national-day/</guid>
       <description>国庆这几天去了重庆，传说中的山城。在山城的这几天没有太出去玩，更多的是在小舅子家待着。体验了一把山城生活。 秦岭 这次本来是打算开车去的.不过想</description>
     </item>
     
     <item>
       <title>工作感想190926</title>
-      <link>http://localhost:1313/post/2019-09-26-working/</link>
+      <link>http://liuwentao.github.io/post/2019-09-26-working/</link>
       <pubDate>Thu, 26 Sep 2019 07:11:36 +0000</pubDate>
       
-      <guid>http://localhost:1313/post/2019-09-26-working/</guid>
+      <guid>http://liuwentao.github.io/post/2019-09-26-working/</guid>
       <description>工作也许仅仅是一份工作，但是生活还是自己的。生活和工作能够分的清楚么？本来一件事大家一起奔着解决问题的方向去做就行了。但是在实际的过程中，各</description>
     </item>
     
     <item>
       <title>横穿香山</title>
-      <link>http://localhost:1313/post/2019-09-13-xiangshan/</link>
+      <link>http://liuwentao.github.io/post/2019-09-13-xiangshan/</link>
       <pubDate>Fri, 13 Sep 2019 16:06:10 +0000</pubDate>
       
-      <guid>http://localhost:1313/post/2019-09-13-xiangshan/</guid>
+      <guid>http://liuwentao.github.io/post/2019-09-13-xiangshan/</guid>
       <description>突如其来 中秋开始的时候，忽然想爬山了。在北京可能最方便爬的山就是香山了。周五早上5:30出门，经过两个小时的地铁到达香山。 想山总的来说还是很</description>
     </item>
     
     <item>
       <title>caddy&#43;centos的部署</title>
-      <link>http://localhost:1313/post/2019-08-02-caddy-centos/</link>
+      <link>http://liuwentao.github.io/post/2019-08-02-caddy-centos/</link>
       <pubDate>Fri, 02 Aug 2019 16:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/post/2019-08-02-caddy-centos/</guid>
+      <guid>http://liuwentao.github.io/post/2019-08-02-caddy-centos/</guid>
       <description>前言 昨天因为帮一同事弄点东西，把自己用了两年多的一个nginx配置文件给删除了。。。主要是一些反代的配置。面临两个选择，要么用nginx重写</description>
     </item>
     
     <item>
       <title>reboot</title>
-      <link>http://localhost:1313/post/2019-06-24-reboot/</link>
+      <link>http://liuwentao.github.io/post/2019-06-24-reboot/</link>
       <pubDate>Mon, 24 Jun 2019 18:00:31 +0000</pubDate>
       
-      <guid>http://localhost:1313/post/2019-06-24-reboot/</guid>
+      <guid>http://liuwentao.github.io/post/2019-06-24-reboot/</guid>
       <description>1 sudo reboot 今年是自己的本命年，也许是一个很好的时机来重启自己的生活。</description>
     </item>
     
     <item>
       <title>查找文件被那个进程占用</title>
-      <link>http://localhost:1313/post/2016-09-18-find-process/</link>
+      <link>http://liuwentao.github.io/post/2016-09-18-find-process/</link>
       <pubDate>Sun, 18 Sep 2016 14:48:10 +0000</pubDate>
       
-      <guid>http://localhost:1313/post/2016-09-18-find-process/</guid>
+      <guid>http://liuwentao.github.io/post/2016-09-18-find-process/</guid>
       <description>前两天遇到了个很奇怪的问题，针对文件做处理的时候遇到文件被锁定。这种事情，还是找到元凶比较好。 微软在VISTA以后提供了一个Restart Manager</description>
     </item>
     
     <item>
       <title>不一样的新年</title>
-      <link>http://localhost:1313/post/2014-02-26-new-year/</link>
+      <link>http://liuwentao.github.io/post/2014-02-26-new-year/</link>
       <pubDate>Wed, 26 Feb 2014 22:25:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/post/2014-02-26-new-year/</guid>
+      <guid>http://liuwentao.github.io/post/2014-02-26-new-year/</guid>
       <description>今年是结婚以后第一个新年,和以往春节恨不一样.多了很多必须要完成的活动.新婚后第一年,我们那里还是挺多规矩的.把媳妇我俩好一顿折腾.再就是今</description>
     </item>
     
     <item>
       <title>回家过年</title>
-      <link>http://localhost:1313/post/2014-01-26-go-home/</link>
+      <link>http://liuwentao.github.io/post/2014-01-26-go-home/</link>
       <pubDate>Sun, 26 Jan 2014 21:22:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/post/2014-01-26-go-home/</guid>
+      <guid>http://liuwentao.github.io/post/2014-01-26-go-home/</guid>
       <description>媳妇前些日子回家了,今年是我俩结婚之后的第一个新年.晓丽回去正好赶上祭灶.有几年没有祭灶了.老家也算有点家的样子了.今年回去的时候就是自己的</description>
     </item>
     
     <item>
       <title>Oracle的dmp文件解析</title>
-      <link>http://localhost:1313/post/2014-01-21-read-oracle-dmp-files/</link>
+      <link>http://liuwentao.github.io/post/2014-01-21-read-oracle-dmp-files/</link>
       <pubDate>Tue, 21 Jan 2014 21:23:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/post/2014-01-21-read-oracle-dmp-files/</guid>
+      <guid>http://liuwentao.github.io/post/2014-01-21-read-oracle-dmp-files/</guid>
       <description>工作中用到的最多的数据库就是Oracle了.其中的数据库导出的格式是dmp.如果想解析其中的内容的话,一个办法就是用imp命令导入到数据库中</description>
     </item>
     
     <item>
       <title>我的2013</title>
-      <link>http://localhost:1313/post/2014-01-19-my-2013/</link>
+      <link>http://liuwentao.github.io/post/2014-01-19-my-2013/</link>
       <pubDate>Sun, 19 Jan 2014 20:34:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/post/2014-01-19-my-2013/</guid>
+      <guid>http://liuwentao.github.io/post/2014-01-19-my-2013/</guid>
       <description>生活 结束了十年漫长旅程,终于和喜欢的人走到了一起.结婚了.后面还有很长的路要走,也许更崎岖.但是好在有你在.以后会更好的.这十年里面见到了各</description>
     </item>
     
     <item>
       <title>SSH利用public key登录</title>
-      <link>http://localhost:1313/post/2014-01-17-ssh-with-public-key/</link>
+      <link>http://liuwentao.github.io/post/2014-01-17-ssh-with-public-key/</link>
       <pubDate>Fri, 17 Jan 2014 16:42:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/post/2014-01-17-ssh-with-public-key/</guid>
+      <guid>http://liuwentao.github.io/post/2014-01-17-ssh-with-public-key/</guid>
       <description>ssh作为是远程管理linux服务器的一个很重要的手段.一般的情况下使用账户和密码可以登录的.但是这种方式不太方便也不太安全.比方如果用rs</description>
     </item>
     
     <item>
       <title>折腾Maven</title>
-      <link>http://localhost:1313/post/2013-12-28-maven/</link>
+      <link>http://liuwentao.github.io/post/2013-12-28-maven/</link>
       <pubDate>Sat, 28 Dec 2013 14:30:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/post/2013-12-28-maven/</guid>
+      <guid>http://liuwentao.github.io/post/2013-12-28-maven/</guid>
       <description>继前些日子折腾node.js之后.现在又开始搞java了.只能说世事无常了.</description>
     </item>
     
     <item>
       <title>利用NodeMon自动加载AutoHotKey脚本</title>
-      <link>http://localhost:1313/post/2013-11-26-nodemon-monitor-ahk/</link>
+      <link>http://liuwentao.github.io/post/2013-11-26-nodemon-monitor-ahk/</link>
       <pubDate>Tue, 26 Nov 2013 21:31:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/post/2013-11-26-nodemon-monitor-ahk/</guid>
+      <guid>http://liuwentao.github.io/post/2013-11-26-nodemon-monitor-ahk/</guid>
       <description>在写autohotkey脚本的时候,遇到的一个比较大的困扰就是每次修改完成以后还要去托盘上刷新一下.最近在开发node.js应用的时候,用到</description>
     </item>
     
     <item>
       <title>搬家</title>
-      <link>http://localhost:1313/post/2013-11-26-change-home/</link>
+      <link>http://liuwentao.github.io/post/2013-11-26-change-home/</link>
       <pubDate>Tue, 26 Nov 2013 21:28:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/post/2013-11-26-change-home/</guid>
+      <guid>http://liuwentao.github.io/post/2013-11-26-change-home/</guid>
       <description>这是来北京之后的第三次搬家了,越来越离北京城远了.搬家是件痛苦的事情,会突然发现,自己多出来好多平时根本没有用到的东西,或者是N久没有穿过的</description>
     </item>
     
     <item>
       <title>拼音加加配置备份和同步</title>
-      <link>http://localhost:1313/post/2013-11-20-jiajia-backup/</link>
+      <link>http://liuwentao.github.io/post/2013-11-20-jiajia-backup/</link>
       <pubDate>Wed, 20 Nov 2013 20:05:01 +0000</pubDate>
       
-      <guid>http://localhost:1313/post/2013-11-20-jiajia-backup/</guid>
+      <guid>http://liuwentao.github.io/post/2013-11-20-jiajia-backup/</guid>
       <description>拼音加加输入法 拼音加加是一个挺好的输入法,虽然作者一直不更新输入法,虽然在windows8上不能算是一个全功能的输入法.但是好用&amp;helli</description>
     </item>
     
     <item>
       <title>Node.js初探</title>
-      <link>http://localhost:1313/post/2013-11-20-nodejs-1/</link>
+      <link>http://liuwentao.github.io/post/2013-11-20-nodejs-1/</link>
       <pubDate>Wed, 20 Nov 2013 18:50:05 +0000</pubDate>
       
-      <guid>http://localhost:1313/post/2013-11-20-nodejs-1/</guid>
+      <guid>http://liuwentao.github.io/post/2013-11-20-nodejs-1/</guid>
       <description>吐槽 最近在搞公司的一个小项目.抱着挖大坑的想法,使用了Node.js和redis.其中的redis是自己一直想使用的.负责的有一个数据接口,</description>
     </item>
     
     <item>
       <title>十年</title>
-      <link>http://localhost:1313/post/2013-09-02-10-years/</link>
+      <link>http://liuwentao.github.io/post/2013-09-02-10-years/</link>
       <pubDate>Mon, 02 Sep 2013 19:47:13 +0000</pubDate>
       
-      <guid>http://localhost:1313/post/2013-09-02-10-years/</guid>
+      <guid>http://liuwentao.github.io/post/2013-09-02-10-years/</guid>
       <description>无</description>
     </item>
     
     <item>
       <title>习惯的养成</title>
-      <link>http://localhost:1313/post/2013-07-20-build-a-habit/</link>
+      <link>http://liuwentao.github.io/post/2013-07-20-build-a-habit/</link>
       <pubDate>Sat, 20 Jul 2013 08:30:13 +0000</pubDate>
       
-      <guid>http://localhost:1313/post/2013-07-20-build-a-habit/</guid>
+      <guid>http://liuwentao.github.io/post/2013-07-20-build-a-habit/</guid>
       <description>清明前两天的时候，因为早点到公司开会。所以起床就早了一些，6:00起床，然后6:30出门了。坐公交车到公司，人很少，速度很快。一个小时不到就</description>
     </item>
     
     <item>
       <title>字体大小自动随宽度和内容改变</title>
-      <link>http://localhost:1313/post/2013-04-20-auto-change-font-size/</link>
+      <link>http://liuwentao.github.io/post/2013-04-20-auto-change-font-size/</link>
       <pubDate>Sat, 20 Apr 2013 15:30:13 +0000</pubDate>
       
-      <guid>http://localhost:1313/post/2013-04-20-auto-change-font-size/</guid>
+      <guid>http://liuwentao.github.io/post/2013-04-20-auto-change-font-size/</guid>
       <description>字体的大小设定可以在开始的时候指定.但是有时候需要根据窗口或者文字的长短来指定.那么这个时候就需要用到时间Paint了. 继承与Control</description>
     </item>
     
     <item>
       <title>AutoIt修改Assembly的版本号</title>
-      <link>http://localhost:1313/post/2013-4-18-change-assembly-version/</link>
+      <link>http://liuwentao.github.io/post/2013-4-18-change-assembly-version/</link>
       <pubDate>Thu, 18 Apr 2013 16:26:25 +0000</pubDate>
       
-      <guid>http://localhost:1313/post/2013-4-18-change-assembly-version/</guid>
+      <guid>http://liuwentao.github.io/post/2013-4-18-change-assembly-version/</guid>
       <description>部门搞了自动构建.以前自己也用过ccnet之类的工具.有很多的版本号递增的规则很是方便.可惜我们不是用类似的工具,所以版本号这块就只能自己手</description>
     </item>
     
     <item>
       <title>ReportService的部署</title>
-      <link>http://localhost:1313/post/2013-04-11-reportservice/</link>
+      <link>http://liuwentao.github.io/post/2013-04-11-reportservice/</link>
       <pubDate>Thu, 11 Apr 2013 21:46:19 +0000</pubDate>
       
-      <guid>http://localhost:1313/post/2013-04-11-reportservice/</guid>
+      <guid>http://liuwentao.github.io/post/2013-04-11-reportservice/</guid>
       <description>ReportService是微软推出的一个报表服务.用来取代以前的水晶报表.水晶报表现在是由SAP来维护了.已经不在是微软的产品了. 清明的时</description>
     </item>
     
     <item>
       <title>修改Vundle的默认位置</title>
-      <link>http://localhost:1313/post/2013-03-31-change-vundle-path/</link>
+      <link>http://liuwentao.github.io/post/2013-03-31-change-vundle-path/</link>
       <pubDate>Sun, 31 Mar 2013 18:40:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/post/2013-03-31-change-vundle-path/</guid>
+      <guid>http://liuwentao.github.io/post/2013-03-31-change-vundle-path/</guid>
       <description>Vundle修改安装的默认路径. 在使用Vundle管理插件的时候,默认是在用户的home文件夹下面.这个本来挺方便的.但是万一如果机器不联网</description>
     </item>
     
     <item>
       <title>常用的.Net第三方类库</title>
-      <link>http://localhost:1313/post/2013-02-02-dot-net-lib/</link>
+      <link>http://liuwentao.github.io/post/2013-02-02-dot-net-lib/</link>
       <pubDate>Sat, 02 Feb 2013 18:14:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/post/2013-02-02-dot-net-lib/</guid>
+      <guid>http://liuwentao.github.io/post/2013-02-02-dot-net-lib/</guid>
       <description>log4net 想写日志的时候,第一个想起来就是这个东东.稳定,好用.可以去看看官方的issuse列表,基本没什么&amp;hellip;专注于日志&amp;hellip</description>
     </item>
     
     <item>
       <title>你好,魅族MX2</title>
-      <link>http://localhost:1313/post/2013-01-25-hi-mx2/</link>
+      <link>http://liuwentao.github.io/post/2013-01-25-hi-mx2/</link>
       <pubDate>Fri, 25 Jan 2013 22:10:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/post/2013-01-25-hi-mx2/</guid>
+      <guid>http://liuwentao.github.io/post/2013-01-25-hi-mx2/</guid>
       <description>刚好前两天联通和魅族一起推出了合约机,然后看着套餐还算划得来.就搞了一个.虽然联通的10010很山寨.但是那个传说中的快递还是很给力的.说他</description>
     </item>
     
     <item>
       <title>搞定INI配置文件</title>
-      <link>http://localhost:1313/post/2013-01-21-work-with-ini/</link>
+      <link>http://liuwentao.github.io/post/2013-01-21-work-with-ini/</link>
       <pubDate>Mon, 21 Jan 2013 10:18:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/post/2013-01-21-work-with-ini/</guid>
+      <guid>http://liuwentao.github.io/post/2013-01-21-work-with-ini/</guid>
       <description>Ini的陷阱 测试的时候发现了一个问题.ini配置文件第一行如果未section的话.是无法读到的.解决办法也有就是空一行就万事大吉了. 今天下</description>
     </item>
     
     <item>
       <title>Becky!文件夹排序</title>
-      <link>http://localhost:1313/post/2013-01-19-becky-sort-folder/</link>
+      <link>http://liuwentao.github.io/post/2013-01-19-becky-sort-folder/</link>
       <pubDate>Sat, 19 Jan 2013 19:45:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/post/2013-01-19-becky-sort-folder/</guid>
+      <guid>http://liuwentao.github.io/post/2013-01-19-becky-sort-folder/</guid>
       <description>Becky!中自建的文件夹是可以顺序调整的,但是默认就有的那几个文件夹是不可以调整顺序的.有一个插件BkSortFolder可以实现这个功能</description>
     </item>
     
     <item>
       <title>我的2012</title>
-      <link>http://localhost:1313/post/2013-01-19-my-2012/</link>
+      <link>http://liuwentao.github.io/post/2013-01-19-my-2012/</link>
       <pubDate>Sat, 19 Jan 2013 19:30:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/post/2013-01-19-my-2012/</guid>
+      <guid>http://liuwentao.github.io/post/2013-01-19-my-2012/</guid>
       <description>2012就那么过去了,没有传说中的世界末日,也没有世界大战.很普通的一年.但是在这一年里面,自己收获挺多的.也算是一个不普通的一年吧. 工作 换</description>
     </item>
     
     <item>
       <title>如何有计划的工作</title>
-      <link>http://localhost:1313/post/2013-01-17-work-plan/</link>
+      <link>http://liuwentao.github.io/post/2013-01-17-work-plan/</link>
       <pubDate>Thu, 17 Jan 2013 21:46:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/post/2013-01-17-work-plan/</guid>
+      <guid>http://liuwentao.github.io/post/2013-01-17-work-plan/</guid>
       <description>如何有计划的工作 自己的工作内容，很多时候自己是没有办法左右的。公司付你工资，是因为你工作的成果。当然，最理想的情况就是自己喜欢做的和公司分配</description>
     </item>
     
     <item>
       <title>迁移到Pelican</title>
-      <link>http://localhost:1313/post/2012-11-26-move-to-pelican/</link>
+      <link>http://liuwentao.github.io/post/2012-11-26-move-to-pelican/</link>
       <pubDate>Mon, 26 Nov 2012 08:44:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/post/2012-11-26-move-to-pelican/</guid>
+      <guid>http://liuwentao.github.io/post/2012-11-26-move-to-pelican/</guid>
       <description>发现从舍弃liu6.org这个域名以后，这两年几乎没怎么写过东西。更多的是维护自己的vimwiki。即使写也很少在网页上面写了，先写好mar</description>
     </item>
     
     <item>
       <title>北京</title>
-      <link>http://localhost:1313/post/2012-10-14-beijing/</link>
+      <link>http://liuwentao.github.io/post/2012-10-14-beijing/</link>
       <pubDate>Sun, 14 Oct 2012 16:44:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/post/2012-10-14-beijing/</guid>
+      <guid>http://liuwentao.github.io/post/2012-10-14-beijing/</guid>
       <description>来北京已经有两年的时间了.对这个城市没有什么太多的感觉.前些天一个同学,问我对这个城市感觉如何?还真的没想过这个问题,毕业以后,换过不少个地</description>
     </item>
     
     <item>
       <title>Matlab和OriginLab</title>
-      <link>http://localhost:1313/post/2012-09-19-matlab-ant-originlab/</link>
+      <link>http://liuwentao.github.io/post/2012-09-19-matlab-ant-originlab/</link>
       <pubDate>Wed, 19 Sep 2012 21:35:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/post/2012-09-19-matlab-ant-originlab/</guid>
+      <guid>http://liuwentao.github.io/post/2012-09-19-matlab-ant-originlab/</guid>
       <description>Matlab 前些日子帮女朋友分析了点实验的数据，就是用matlab做了线性拟合。用到polyfit这个函数，ployfit是专门用来做多项式的线性拟合</description>
     </item>
     
     <item>
       <title>SSH自动登录</title>
-      <link>http://localhost:1313/post/2012-06-24-ssh-auto-login/</link>
+      <link>http://liuwentao.github.io/post/2012-06-24-ssh-auto-login/</link>
       <pubDate>Sun, 24 Jun 2012 17:43:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/post/2012-06-24-ssh-auto-login/</guid>
+      <guid>http://liuwentao.github.io/post/2012-06-24-ssh-auto-login/</guid>
       <description>自动ssh/scp方法 A为主机; B为远程主机, 假如ip为192.168.1.102; A和B的系统都是Linux 在A上运行命令: 1 2 3 ssh-keygen -t rsa (</description>
     </item>
     
     <item>
       <title>端午流水帐</title>
-      <link>http://localhost:1313/post/2012-06-24-duan-wu-note/</link>
+      <link>http://liuwentao.github.io/post/2012-06-24-duan-wu-note/</link>
       <pubDate>Sun, 24 Jun 2012 17:43:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/post/2012-06-24-duan-wu-note/</guid>
+      <guid>http://liuwentao.github.io/post/2012-06-24-duan-wu-note/</guid>
       <description>今天大家都走的挺早的.最近这段时间生产上出了不少的问题.年初部门定得目标已经杯具了.今年接下来的时间估计会很悲惨&amp;hellip;:( 问题出在</description>
     </item>
     
     <item>
       <title>系统优化</title>
-      <link>http://localhost:1313/post/2012-06-21-system-optimization/</link>
+      <link>http://liuwentao.github.io/post/2012-06-21-system-optimization/</link>
       <pubDate>Thu, 21 Jun 2012 21:18:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/post/2012-06-21-system-optimization/</guid>
+      <guid>http://liuwentao.github.io/post/2012-06-21-system-optimization/</guid>
       <description>前一段时间一直在忙一个子系统的优化.今年主要的工作内容貌似都跟性能优化相关了.接下来是另外一个项目的优化.在优化的工程中有点感受. 性能优化是</description>
     </item>
     
     <item>
       <title>学会说不</title>
-      <link>http://localhost:1313/post/2012-05-09-say-no/</link>
+      <link>http://liuwentao.github.io/post/2012-05-09-say-no/</link>
       <pubDate>Wed, 09 May 2012 00:40:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/post/2012-05-09-say-no/</guid>
+      <guid>http://liuwentao.github.io/post/2012-05-09-say-no/</guid>
       <description>今天大家都走的挺早的.最近这段时间生产上出了不少的问题.年初部门定得目标已经杯具了.今年接下来的时间估计会很悲惨&amp;hellip;:( 问题出在</description>
     </item>
     
     <item>
       <title>解决移动Vbox移动虚拟磁盘以后无法注册的问题</title>
-      <link>http://localhost:1313/post/2012-04-22-fix-vbox-mount/</link>
+      <link>http://liuwentao.github.io/post/2012-04-22-fix-vbox-mount/</link>
       <pubDate>Sun, 22 Apr 2012 11:54:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/post/2012-04-22-fix-vbox-mount/</guid>
+      <guid>http://liuwentao.github.io/post/2012-04-22-fix-vbox-mount/</guid>
       <description>发现时间机器的增量备份不是指单个文件,所以需要将Vbox的虚拟磁盘移出主硬盘.不然,每次的变化都要整个文件备份.太占地方了.而且也没有必要.</description>
     </item>
     
     <item>
       <title>发布ASP.net网站时候遇到的几个问题</title>
-      <link>http://localhost:1313/post/2012-03-29-problme-with-publish-asp-dot-net/</link>
+      <link>http://liuwentao.github.io/post/2012-03-29-problme-with-publish-asp-dot-net/</link>
       <pubDate>Thu, 29 Mar 2012 20:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/post/2012-03-29-problme-with-publish-asp-dot-net/</guid>
+      <guid>http://liuwentao.github.io/post/2012-03-29-problme-with-publish-asp-dot-net/</guid>
       <description>今天在发布一个网站的时候,遇到了一些问题: `xx is not allowed here because it does not extend class &amp;lsquo;System.Web.UI.Page&amp;rsquo;. 出现该问题的原因是由于页面的namespace错误导致的.修改为和web项</description>
     </item>
     
     <item>
       <title>Ack</title>
-      <link>http://localhost:1313/post/2012-03-28-ack/</link>
+      <link>http://liuwentao.github.io/post/2012-03-28-ack/</link>
       <pubDate>Wed, 28 Mar 2012 21:28:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/post/2012-03-28-ack/</guid>
+      <guid>http://liuwentao.github.io/post/2012-03-28-ack/</guid>
       <description>Ack Ack是类似于grep的一个搜索工具,主要是面向程序员的.可以快速方便的从大量的代码中查找你需要的信息.默认不会去搜索SCM产生的文件.相</description>
     </item>
     
     <item>
       <title>解决E492不是编辑器命令 ^M</title>
-      <link>http://localhost:1313/post/2012-03-26-fix-vim-e492/</link>
+      <link>http://liuwentao.github.io/post/2012-03-26-fix-vim-e492/</link>
       <pubDate>Mon, 26 Mar 2012 13:51:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/post/2012-03-26-fix-vim-e492/</guid>
+      <guid>http://liuwentao.github.io/post/2012-03-26-fix-vim-e492/</guid>
       <description>vim的插件有时由于是windows下编写的原因,所以.在unix下面无法打开.报 E492不是编辑器命令 ^M 解决办法很简单 打开以后,执行: :set ff=unix</description>
     </item>
     
     <item>
       <title>mac下面配置springside4的开发环境</title>
-      <link>http://localhost:1313/post/2012-02-26-config-spring4side-on-mac/</link>
+      <link>http://liuwentao.github.io/post/2012-02-26-config-spring4side-on-mac/</link>
       <pubDate>Sun, 26 Feb 2012 10:37:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/post/2012-02-26-config-spring4side-on-mac/</guid>
+      <guid>http://liuwentao.github.io/post/2012-02-26-config-spring4side-on-mac/</guid>
       <description>spring是一个很强悍的框架.早已脱离了最早的orm.国内有人做了一个springside的框架,其实就是将spring和一些工具整合起来</description>
     </item>
     
     <item>
       <title>学习的动力</title>
-      <link>http://localhost:1313/post/2012-02-24-the-power-of-learn/</link>
+      <link>http://liuwentao.github.io/post/2012-02-24-the-power-of-learn/</link>
       <pubDate>Fri, 24 Feb 2012 22:05:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/post/2012-02-24-the-power-of-learn/</guid>
+      <guid>http://liuwentao.github.io/post/2012-02-24-the-power-of-learn/</guid>
       <description>从去年开始就一直在公司里面做wiki的推广,不是很顺利.自己没有太多的时间放在上面,日常工单还有一些杂事占据了很多的时间.比较郁闷,这点也的</description>
     </item>
     
     <item>
       <title>新的一年</title>
-      <link>http://localhost:1313/post/2012-01-31-new-year/</link>
+      <link>http://liuwentao.github.io/post/2012-01-31-new-year/</link>
       <pubDate>Tue, 31 Jan 2012 10:57:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/post/2012-01-31-new-year/</guid>
+      <guid>http://liuwentao.github.io/post/2012-01-31-new-year/</guid>
       <description>新的一年,新的开始了.开始上班几天了,今天终于有点状态了.努力工作,努力挣钱,今年唯一的目标.</description>
     </item>
     
     <item>
       <title>我的2011</title>
-      <link>http://localhost:1313/post/2012-01-03-my-2011/</link>
+      <link>http://liuwentao.github.io/post/2012-01-03-my-2011/</link>
       <pubDate>Tue, 03 Jan 2012 19:20:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/post/2012-01-03-my-2011/</guid>
+      <guid>http://liuwentao.github.io/post/2012-01-03-my-2011/</guid>
       <description>2011 随想 2011年自己终于从裕日离开了裕日,工作以后就在这家公司,从学校出来以后认识的人更多都是这家公司的同事,也在这家公司经历了各种各样的事</description>
     </item>
     
     <item>
       <title>OCZ&#43;MBP</title>
-      <link>http://localhost:1313/post/2011-12-28-ocz-and-mbp/</link>
+      <link>http://liuwentao.github.io/post/2011-12-28-ocz-and-mbp/</link>
       <pubDate>Wed, 28 Dec 2011 20:25:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/post/2011-12-28-ocz-and-mbp/</guid>
+      <guid>http://liuwentao.github.io/post/2011-12-28-ocz-and-mbp/</guid>
       <description>前两天将电脑的硬盘换乘了SSD.使用的是OCZ的SSD.但是装上以后各种各样的问题.后来发现归结下来就是掉电以后,文件损失.然后导致系统启动</description>
     </item>
     
     <item>
       <title>恶意</title>
-      <link>http://localhost:1313/post/2011-11-27-book-evil/</link>
+      <link>http://liuwentao.github.io/post/2011-11-27-book-evil/</link>
       <pubDate>Sun, 27 Nov 2011 22:49:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/post/2011-11-27-book-evil/</guid>
+      <guid>http://liuwentao.github.io/post/2011-11-27-book-evil/</guid>
       <description>今天把东野圭吾的《恶意》看完了。今年很痴迷于东野圭吾的小说，有点相见恨晚的感觉。这本小说让人有一种拿起就不想放下的冲动。先不说说内容，记得在</description>
     </item>
     
     <item>
       <title>所见几所的与所想即所得</title>
-      <link>http://localhost:1313/post/2011-11-17-wysiwyg-vs-wytiwyg/</link>
+      <link>http://liuwentao.github.io/post/2011-11-17-wysiwyg-vs-wytiwyg/</link>
       <pubDate>Thu, 17 Nov 2011 22:52:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/post/2011-11-17-wysiwyg-vs-wytiwyg/</guid>
+      <guid>http://liuwentao.github.io/post/2011-11-17-wysiwyg-vs-wytiwyg/</guid>
       <description>如果要写一篇文章,现在我们更多想到的是,我要打开Word.然后输入自己要写的内容,然后调整格式,字体大小,段落,对齐方式,列表,图片.为了别</description>
     </item>
     
     <item>
       <title>学习收获(20111115)</title>
-      <link>http://localhost:1313/post/2011-11-15-learn-report20111115/</link>
+      <link>http://liuwentao.github.io/post/2011-11-15-learn-report20111115/</link>
       <pubDate>Tue, 15 Nov 2011 22:52:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/post/2011-11-15-learn-report20111115/</guid>
+      <guid>http://liuwentao.github.io/post/2011-11-15-learn-report20111115/</guid>
       <description>hg MQ 是提高生产力的好工具.对于产品类软件的开发过程中新需求和bug修改来说简直就是神器了.不知道公司什么时候才能过渡到 esoTalk 新近出现的一个BBS</description>
     </item>
     
     <item>
       <title>如何获得知识</title>
-      <link>http://localhost:1313/post/2011-11-14-how-to-gather-info/</link>
+      <link>http://liuwentao.github.io/post/2011-11-14-how-to-gather-info/</link>
       <pubDate>Mon, 14 Nov 2011 19:52:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/post/2011-11-14-how-to-gather-info/</guid>
+      <guid>http://liuwentao.github.io/post/2011-11-14-how-to-gather-info/</guid>
       <description>如何获得知识,每个人都有不同的方法.记得大学开始的时候,老师曾经说过,大学四年的学习,如果能够掌握一种比较好的学习新知识的方法,那么这四年就</description>
     </item>
     
     <item>
       <title>LNMP的一些感想</title>
-      <link>http://localhost:1313/post/2011-11-11-think-about-lnmp/</link>
+      <link>http://liuwentao.github.io/post/2011-11-11-think-about-lnmp/</link>
       <pubDate>Fri, 11 Nov 2011 20:40:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/post/2011-11-11-think-about-lnmp/</guid>
+      <guid>http://liuwentao.github.io/post/2011-11-11-think-about-lnmp/</guid>
       <description>最近把blog搬到vps上.之前使用虚拟主机的时候,一直都是LNMP,已经配好的,没有选择的余地.这次使用了LNMP,nginx的确要比Ap</description>
     </item>
     
     <item>
       <title>解决yum update 失败</title>
-      <link>http://localhost:1313/post/2011-11-11-how-to-fix-yum-update/</link>
+      <link>http://liuwentao.github.io/post/2011-11-11-how-to-fix-yum-update/</link>
       <pubDate>Fri, 11 Nov 2011 12:40:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/post/2011-11-11-how-to-fix-yum-update/</guid>
+      <guid>http://liuwentao.github.io/post/2011-11-11-how-to-fix-yum-update/</guid>
       <description>执行yum update以后遇到了如下的问题 &amp;ldquo;Cannot retrieve repository metadata (repomd.xml) for repository: fedora. Please verify its path and try again&amp;rdquo; 修改下面的文件: /etc/yum.repos.d/fedora.repo 和 /etc/yum.repos.d/fedora-updates.repo 修改方式为取消注释掉的 baseurl即把前面＃</description>
     </item>
     
     <item>
       <title>个人SCM的选择</title>
-      <link>http://localhost:1313/post/2011-11-09-how-to-choose-personal-scm/</link>
+      <link>http://liuwentao.github.io/post/2011-11-09-how-to-choose-personal-scm/</link>
       <pubDate>Wed, 09 Nov 2011 20:21:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/post/2011-11-09-how-to-choose-personal-scm/</guid>
+      <guid>http://liuwentao.github.io/post/2011-11-09-how-to-choose-personal-scm/</guid>
       <description>自己平时会写一些代码,需要把这些代码管理起来.用svn的话,不太方便.以往的这种集中式的SCM软件,如CVS和SVN.个人用起来还是太麻烦了</description>
     </item>
     
     <item>
       <title>FML</title>
-      <link>http://localhost:1313/post/2011-11-08-fml/</link>
+      <link>http://liuwentao.github.io/post/2011-11-08-fml/</link>
       <pubDate>Tue, 08 Nov 2011 05:40:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/post/2011-11-08-fml/</guid>
+      <guid>http://liuwentao.github.io/post/2011-11-08-fml/</guid>
       <description>来帝都已经一年了,最大的感觉就是这是一个不靠谱的城市.浮躁的人们聚集在一起,就成了这样的一个城市. 唉,感觉有点累了.在西安,在南京的时候,面</description>
     </item>
     
     <item>
       <title>git and mercurial on lion</title>
-      <link>http://localhost:1313/post/2011-11-02-git-and-mercurial-on-lion/</link>
+      <link>http://liuwentao.github.io/post/2011-11-02-git-and-mercurial-on-lion/</link>
       <pubDate>Wed, 02 Nov 2011 21:29:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/post/2011-11-02-git-and-mercurial-on-lion/</guid>
+      <guid>http://liuwentao.github.io/post/2011-11-02-git-and-mercurial-on-lion/</guid>
       <description>升级到Lion GM以后,git和Mercurial都用不了了.解决办法如下: git重装一下就可以了. Mercurial也需要重新安装一下. 然</description>
     </item>
     

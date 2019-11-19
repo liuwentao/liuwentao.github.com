@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Soft on wentao&#39;s blog</title>
-    <link>http://localhost:1313/tags/soft/</link>
+    <link>http://liuwentao.github.io/tags/soft/</link>
     <description>Recent content in Soft on wentao&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Wed, 20 Nov 2013 20:05:01 +0000</lastBuildDate>
     
-	<atom:link href="http://localhost:1313/tags/soft/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://liuwentao.github.io/tags/soft/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>拼音加加配置备份和同步</title>
-      <link>http://localhost:1313/post/2013-11-20-jiajia-backup/</link>
+      <link>http://liuwentao.github.io/post/2013-11-20-jiajia-backup/</link>
       <pubDate>Wed, 20 Nov 2013 20:05:01 +0000</pubDate>
       
-      <guid>http://localhost:1313/post/2013-11-20-jiajia-backup/</guid>
+      <guid>http://liuwentao.github.io/post/2013-11-20-jiajia-backup/</guid>
       <description>拼音加加输入法 拼音加加是一个挺好的输入法,虽然作者一直不更新输入法,虽然在windows8上不能算是一个全功能的输入法.但是好用&amp;helli</description>
     </item>
     

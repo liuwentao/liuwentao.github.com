@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>read on wentao&#39;s blog</title>
-    <link>http://localhost:1313/categories/read/</link>
+    <link>http://liuwentao.github.io/categories/read/</link>
     <description>Recent content in read on wentao&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Sun, 27 Nov 2011 22:49:00 +0000</lastBuildDate>
     
-	<atom:link href="http://localhost:1313/categories/read/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://liuwentao.github.io/categories/read/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>恶意</title>
-      <link>http://localhost:1313/post/2011-11-27-book-evil/</link>
+      <link>http://liuwentao.github.io/post/2011-11-27-book-evil/</link>
       <pubDate>Sun, 27 Nov 2011 22:49:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/post/2011-11-27-book-evil/</guid>
+      <guid>http://liuwentao.github.io/post/2011-11-27-book-evil/</guid>
       <description>今天把东野圭吾的《恶意》看完了。今年很痴迷于东野圭吾的小说，有点相见恨晚的感觉。这本小说让人有一种拿起就不想放下的冲动。先不说说内容，记得在</description>
     </item>
     
     <item>
       <title>所见几所的与所想即所得</title>
-      <link>http://localhost:1313/post/2011-11-17-wysiwyg-vs-wytiwyg/</link>
+      <link>http://liuwentao.github.io/post/2011-11-17-wysiwyg-vs-wytiwyg/</link>
       <pubDate>Thu, 17 Nov 2011 22:52:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/post/2011-11-17-wysiwyg-vs-wytiwyg/</guid>
+      <guid>http://liuwentao.github.io/post/2011-11-17-wysiwyg-vs-wytiwyg/</guid>
       <description>如果要写一篇文章,现在我们更多想到的是,我要打开Word.然后输入自己要写的内容,然后调整格式,字体大小,段落,对齐方式,列表,图片.为了别</description>
     </item>
     
     <item>
       <title>如何获得知识</title>
-      <link>http://localhost:1313/post/2011-11-14-how-to-gather-info/</link>
+      <link>http://liuwentao.github.io/post/2011-11-14-how-to-gather-info/</link>
       <pubDate>Mon, 14 Nov 2011 19:52:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/post/2011-11-14-how-to-gather-info/</guid>
+      <guid>http://liuwentao.github.io/post/2011-11-14-how-to-gather-info/</guid>
       <description>如何获得知识,每个人都有不同的方法.记得大学开始的时候,老师曾经说过,大学四年的学习,如果能够掌握一种比较好的学习新知识的方法,那么这四年就</description>
     </item>
     

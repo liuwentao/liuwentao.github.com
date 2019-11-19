@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>yum on wentao&#39;s blog</title>
-    <link>http://localhost:1313/tags/yum/</link>
+    <link>http://liuwentao.github.io/tags/yum/</link>
     <description>Recent content in yum on wentao&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Fri, 11 Nov 2011 12:40:00 +0000</lastBuildDate>
     
-	<atom:link href="http://localhost:1313/tags/yum/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://liuwentao.github.io/tags/yum/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>解决yum update 失败</title>
-      <link>http://localhost:1313/post/2011-11-11-how-to-fix-yum-update/</link>
+      <link>http://liuwentao.github.io/post/2011-11-11-how-to-fix-yum-update/</link>
       <pubDate>Fri, 11 Nov 2011 12:40:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/post/2011-11-11-how-to-fix-yum-update/</guid>
+      <guid>http://liuwentao.github.io/post/2011-11-11-how-to-fix-yum-update/</guid>
       <description>执行yum update以后遇到了如下的问题 &amp;ldquo;Cannot retrieve repository metadata (repomd.xml) for repository: fedora. Please verify its path and try again&amp;rdquo; 修改下面的文件: /etc/yum.repos.d/fedora.repo 和 /etc/yum.repos.d/fedora-updates.repo 修改方式为取消注释掉的 baseurl即把前面＃</description>
     </item>
     

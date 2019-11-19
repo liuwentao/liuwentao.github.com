@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>.Net on wentao&#39;s blog</title>
-    <link>http://localhost:1313/tags/.net/</link>
+    <link>http://liuwentao.github.io/tags/.net/</link>
     <description>Recent content in .Net on wentao&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Thu, 18 Apr 2013 16:26:25 +0000</lastBuildDate>
     
-	<atom:link href="http://localhost:1313/tags/.net/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://liuwentao.github.io/tags/.net/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>AutoIt修改Assembly的版本号</title>
-      <link>http://localhost:1313/post/2013-4-18-change-assembly-version/</link>
+      <link>http://liuwentao.github.io/post/2013-4-18-change-assembly-version/</link>
       <pubDate>Thu, 18 Apr 2013 16:26:25 +0000</pubDate>
       
-      <guid>http://localhost:1313/post/2013-4-18-change-assembly-version/</guid>
+      <guid>http://liuwentao.github.io/post/2013-4-18-change-assembly-version/</guid>
       <description>部门搞了自动构建.以前自己也用过ccnet之类的工具.有很多的版本号递增的规则很是方便.可惜我们不是用类似的工具,所以版本号这块就只能自己手</description>
     </item>
     
     <item>
       <title>ReportService的部署</title>
-      <link>http://localhost:1313/post/2013-04-11-reportservice/</link>
+      <link>http://liuwentao.github.io/post/2013-04-11-reportservice/</link>
       <pubDate>Thu, 11 Apr 2013 21:46:19 +0000</pubDate>
       
-      <guid>http://localhost:1313/post/2013-04-11-reportservice/</guid>
+      <guid>http://liuwentao.github.io/post/2013-04-11-reportservice/</guid>
       <description>ReportService是微软推出的一个报表服务.用来取代以前的水晶报表.水晶报表现在是由SAP来维护了.已经不在是微软的产品了. 清明的时</description>
     </item>
     

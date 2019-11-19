@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>AutoIt on wentao&#39;s blog</title>
-    <link>http://localhost:1313/tags/autoit/</link>
+    <link>http://liuwentao.github.io/tags/autoit/</link>
     <description>Recent content in AutoIt on wentao&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Thu, 18 Apr 2013 16:26:25 +0000</lastBuildDate>
     
-	<atom:link href="http://localhost:1313/tags/autoit/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://liuwentao.github.io/tags/autoit/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>AutoIt修改Assembly的版本号</title>
-      <link>http://localhost:1313/post/2013-4-18-change-assembly-version/</link>
+      <link>http://liuwentao.github.io/post/2013-4-18-change-assembly-version/</link>
       <pubDate>Thu, 18 Apr 2013 16:26:25 +0000</pubDate>
       
-      <guid>http://localhost:1313/post/2013-4-18-change-assembly-version/</guid>
+      <guid>http://liuwentao.github.io/post/2013-4-18-change-assembly-version/</guid>
       <description>部门搞了自动构建.以前自己也用过ccnet之类的工具.有很多的版本号递增的规则很是方便.可惜我们不是用类似的工具,所以版本号这块就只能自己手</description>
     </item>
     
